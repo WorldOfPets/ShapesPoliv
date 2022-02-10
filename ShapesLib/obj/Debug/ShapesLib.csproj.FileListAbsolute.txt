@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Shapes_Polivanov\ShapesLib\bin\Debug\ShapesLib.dll
+C:\Users\Admin\source\repos\Shapes_Polivanov\ShapesLib\bin\Debug\ShapesLib.pdb
+C:\Users\Admin\source\repos\Shapes_Polivanov\ShapesLib\obj\Debug\ShapesLib.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Shapes_Polivanov\ShapesLib\obj\Debug\ShapesLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Shapes_Polivanov\ShapesLib\obj\Debug\ShapesLib.dll
+C:\Users\Admin\source\repos\Shapes_Polivanov\ShapesLib\obj\Debug\ShapesLib.pdb
